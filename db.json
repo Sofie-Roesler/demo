@@ -1,7 +1,7 @@
 {
   "patients": [
     { "id": 1, "firstname": "Sofie", "lastname": "Rösler", "dateofbirth": "15.11.1996", "sex": "female" },
-    { "id": 2, "name": "Benoit", "lastname": "Mollard", "dateofbirth": "01.01.1982", "sex": "male"},
-    { "id": 3, "name": "Christian", "lastname": "Wehrle", "dateofbirth": "12.12.1980", "sex": "female" }
+    { "id": 2, "firstname": "Benoit", "lastname": "Mollard", "dateofbirth": "01.01.1982", "sex": "male"},
+    { "id": 3, "firstname": "Christian", "lastname": "Wehrle", "dateofbirth": "12.12.1980", "sex": "female" }
   ]
 }
