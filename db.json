@@ -1,14 +1,7 @@
 {
   "patients": [
-    { "id": 1, "name": "Sofie" },
-    { "id": 2, "name": "Benoit" },
-    { "id": 3, "name": "Christian" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    { "id": 1, "firstname": "Sofie", "lastname": "Rösler", "dateofbirth": "15.11.1996", "sex": "female" },
+    { "id": 2, "name": "Benoit", "lastname": "Mollard", "dateofbirth": "01.01.1982", "sex": "male"},
+    { "id": 3, "name": "Christian", "lastname": "Wehrle", "dateofbirth": "12.12.1980", "sex": "female" }
+  ]
 }
